@@ -1,0 +1,14 @@
+body{
+  background: grey;
+  color: pink;
+  size: 150%;
+  margin: 5%;
+}
+
+p{
+  font-family:Arial;
+}
+
+*{
+  color: blue;
+}
